@@ -1,0 +1,2 @@
+# powershell stranka
+PowerShell is a shell program developed by Microsoft for task automation and configuration management. As is typical for a shell, it provides a command-line interpreter for interactive use and a script interpreter for automation via a language defined for it.
